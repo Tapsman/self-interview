@@ -1,6 +1,6 @@
 from typing import List
 
-# TRhe pascals triangle
+# The pascals triangle
 
 class pascal:
 	def generate(self, numRows: int) -> List[List[int]]:
