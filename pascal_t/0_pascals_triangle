@@ -1,7 +1,7 @@
 from typing import List
 
-# The pascals triangle
-
+# This is the pascals triangle
+# Where each element will be in row
 class pascal:
 	def generate(self, numRows: int) -> List[List[int]]:
 		res = [[1]]
